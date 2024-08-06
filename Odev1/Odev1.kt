@@ -1,0 +1,49 @@
+package com.example.kotlin_dersleri.degiskenler
+
+fun main() {
+    val sehir = "İstanbul"
+    val ülke = "Türkiye"
+    val telefon = "+90 530 00 00"
+    val postaKodu = 34000
+    val email = "email@blabla.com"
+    val meslek = "Bilgisayar Mühendisi"
+    val stokMiktari = 5
+    val musteriAdi = "Yasin"
+    val bakiye = 6000
+    val dogumGunu = "01.01.20001"
+    val maas = 17002
+    val medeniDurum = false
+    val urunYorum = "Ürün çok dandik"
+    val odemeTarihi = "08.08.2024"
+    val odeme = false
+    val siparisAdeti = 10
+    val arabaModeli = "Fiat Linea"
+    val kitapAdi = "Toprak Ana"
+    val yayinlanmaTarihi = "19.09.1999"
+    val indirimMiktari = 0.35
+    val odaSayisi = 3
+    val enlem = 40.99669804250144
+    val boylam = 28.946831707552047
+    val urunAdı = "Lenovo laptop 14'"
+    val yemekFiyati = 175.99
+    val marka = "Dell"
+    val videoSuresi = 1500
+    val urunPuani = 4.7
+    val resimAdi = "deneme.png"
+    val dosyaFormati = ".zip"
+    val renk = "mavi"
+    val renkKodu = "#000000"
+    val telefonModeli = "Iphone 13"
+    val ekranBoyutu = 5.7
+    val agirlik = 120.345
+    val ulusalGun = "19 Mayıs"
+    val tatilGunu = "29 Ekim"
+    val rezervasyonTarihi = "30.08.2024"
+    val sokakAdi = "Mavi Sokak"
+    val otobusHatti = "55T"
+    val kalanDakika = 55
+    val takipKodu = 123456
+    val kuponSuresi = "2 Gün"
+    val kuponKodu = "12QGAs34"
+    val faturaAdresi = "bla bla Mah. bla bla Sok. No:1 Daire: 1 Kadıköy/İstanbul"
+}
